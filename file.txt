@@ -1,1 +1,1 @@
-This is A function
+diff + This is A function. This is B function.
